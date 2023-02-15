@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ravacho
-- 👀 I’m interested in dot.net c# xamarim
+- 👀 I’m interested in dot.net c# MAUI
 
 
 
